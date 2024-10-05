@@ -16,15 +16,24 @@ Amin and Mehdi love watermelons and melons. Each watermelon adds 2 minutes to a 
 
 ### Example 1
 
-Input: 
+input: 
+
 2 
+
 4
-Output: YES
+
+Output: 
+
+YES
 
 ### Example 2
 
 Input:
+
 3
+
 1
+
 Output:
+
 NO
